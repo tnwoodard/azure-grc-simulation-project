@@ -1,24 +1,40 @@
-# Azure Cloud Compliance Assessment (Simulated Project)
+# Azure GRC Simulation Project
 
-📌 **Overview**  
-This project was completed as part of my graduate studies in cybersecurity and is based on a fictional scenario.  
-I acted as a GRC analyst assessing compliance gaps during a simulated Azure cloud migration for a government-contracted logistics company.  
+![GitHub repo size](https://img.shields.io/github/repo-size/tnwoodard/azure-grc-simulation-project?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/tnwoodard/azure-grc-simulation-project?style=flat-square)
 
-📊 **Key Deliverables**  
-- Risk Summary Table with impact and likelihood scoring  
-- Compliance Mapping Table aligned with **NIST SP 800-53** and **PCI DSS v4**
-- Secure Network Topology designed with least privilege principles
-- Remediation recommendations (RBAC, backup strategy, vulnerability management program)  
-
-🛠 **Skills & Frameworks Demonstrated**  
-- Risk assessment & prioritization  
-- Multi-framework compliance mapping (NIST SP 800-53, PCI DSS and FISMA)  
-- Azure cloud security recommendations  
-- GRC reporting and documentation  
-
-📂 **Files in this Repository**  
-- `GRC_Case_Study.pdf` → Short recruiter-friendly case study snapshot  
-- `GRC_Cloud_Report_Final.pdf` → Full detailed technical report  
+## 📌 Project Overview
+This project simulates a **Governance, Risk, and Compliance (GRC) assessment** for GetsIt2U, a global shipping platform contracted by the U.S. government. The project focuses on **Azure cloud security**, identifying risks, mapping compliance gaps, and recommending remediation strategies for NIST SP 800-53, PCI DSS, and FISMA compliance.
 
 ---
-👩‍💻 Created by [Tempestt Woodard](https://github.com/tnwoodard) 
+
+## 🎯 Objectives
+- Identify and assess cloud security risks in Azure  
+- Map risks to relevant compliance frameworks  
+- Provide actionable remediation recommendations  
+
+---
+
+## 🛠️ Key Deliverables
+- **REPORT.md** – Detailed risk and compliance assessment  
+- **PDF Report** – Full-color tables, charts, and visuals ([Download PDF](docs/report.pdf))  
+- **Snapshot** – 4-page case study with risk and compliance tables ([View snapshot PDF](docs/snapshot.pdf))  
+
+---
+
+## 🔎 Highlights
+- Access Controls, Disaster Recovery, and Vulnerability Management assessment  
+- Compliance mapping to **PCI DSS**, **FISMA**, and **NIST CSF**  
+- Recommendations for RBAC implementation, backup verification, and vulnerability scanning  
+- Secure network topology design following least-privilege principles  
+
+---
+
+## 📂 File Structure
+azure-grc-simulation-project/
+│
+├── README.md
+├── REPORT.md
+└── docs/
+├── report.pdf
+└── snapshot.pdf
