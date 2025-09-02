@@ -5,8 +5,9 @@ This project was completed as part of my graduate studies in cybersecurity and i
 I acted as a GRC analyst assessing compliance gaps during a simulated Azure cloud migration for a government-contracted logistics company.  
 
 📊 **Key Deliverables**  
-- Risk Summary Table with impact/likelihood scoring  
-- Compliance Mapping Table aligned with **NIST SP 800-53** and **PCI DSS v4**  
+- Risk Summary Table with impact and likelihood scoring  
+- Compliance Mapping Table aligned with **NIST SP 800-53** and **PCI DSS v4**
+- Secure Network Topology designed with least privilege principles
 - Remediation recommendations (RBAC, backup strategy, vulnerability management program)  
 
 🛠 **Skills & Frameworks Demonstrated**  
