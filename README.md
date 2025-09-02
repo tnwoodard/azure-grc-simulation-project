@@ -1,40 +1,33 @@
 # Azure GRC Simulation Project
 
-![GitHub repo size](https://img.shields.io/github/repo-size/tnwoodard/azure-grc-simulation-project?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/tnwoodard/azure-grc-simulation-project?style=flat-square)
-
-## 📌 Project Overview
-This project simulates a **Governance, Risk, and Compliance (GRC) assessment** for GetsIt2U, a global shipping platform contracted by the U.S. government. The project focuses on **Azure cloud security**, identifying risks, mapping compliance gaps, and recommending remediation strategies for NIST SP 800-53, PCI DSS, and FISMA compliance.
+A simulation project demonstrating Governance, Risk, and Compliance (GRC) practices for a cloud migration scenario using Microsoft Azure.
 
 ---
 
-## 🎯 Objectives
-- Identify and assess cloud security risks in Azure  
-- Map risks to relevant compliance frameworks  
-- Provide actionable remediation recommendations  
+## 📂 Project Files
+
+The following PDF reports contain the full project details, including tables, risk assessments, and compliance mapping:
+
+- [📄 Download Full Report PDF](docs/report.pdf)  
+- [📄 Download Snapshot PDF](docs/snapshot.pdf)  
+
+> **Note:** Click the links above to download the PDFs for full tables, visuals, and project details.
 
 ---
 
-## 🛠️ Key Deliverables
-- **REPORT.md** – Detailed risk and compliance assessment  
-- **PDF Report** – Full-color tables, charts, and visuals ([Download PDF](docs/report.pdf))  
-- **Snapshot** – 4-page case study with risk and compliance tables ([View snapshot PDF](docs/snapshot.pdf))  
+## 📘 Overview
+
+**Project Goal:**  
+To simulate and document GRC compliance gaps and provide technical recommendations for cloud migration to Azure.
+
+**Highlights:**
+- Identified key compliance gaps (access controls, backups, vulnerability scanning)
+- Mapped gaps to NIST SP 800-53 and PCI DSS requirements
+- Provided actionable remediation steps and secure network design
+- Includes a snapshot case study for quick reference
 
 ---
 
-## 🔎 Highlights
-- Access Controls, Disaster Recovery, and Vulnerability Management assessment  
-- Compliance mapping to **PCI DSS**, **FISMA**, and **NIST CSF**  
-- Recommendations for RBAC implementation, backup verification, and vulnerability scanning  
-- Secure network topology design following least-privilege principles  
+## 📖 References
 
----
-
-## 📂 File Structure
-azure-grc-simulation-project/
-│
-├── README.md
-├── REPORT.md
-└── docs/
-├── report.pdf
-└── snapshot.pdf
+- Microsoft. Azure security and compliance documentation. [Microsoft Learn](https://learn.microsoft)
