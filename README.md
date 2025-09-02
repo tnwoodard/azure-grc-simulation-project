@@ -11,7 +11,7 @@ I acted as a GRC analyst assessing compliance gaps during a simulated Azure clou
 
 🛠 **Skills & Frameworks Demonstrated**  
 - Risk assessment & prioritization  
-- Multi-framework compliance mapping (NIST SP 800-53, PCI DSS, FISMA)  
+- Multi-framework compliance mapping (NIST SP 800-53, PCI DSS and FISMA)  
 - Azure cloud security recommendations  
 - GRC reporting and documentation  
 
